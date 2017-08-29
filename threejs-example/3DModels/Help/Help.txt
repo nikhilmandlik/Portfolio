@@ -1,0 +1,2 @@
+1. LMB + Any Direction     - Rotate 3D Model
+2. MMB + UP/DOWN Direction - Zoom In/Out 3D Model
